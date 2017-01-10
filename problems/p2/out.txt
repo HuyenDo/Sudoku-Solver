@@ -1,0 +1,6 @@
+(SA['red', 'green', 'blue'] ne WA['red'])
+(SA['red', 'green', 'blue'] ne NT['blue'])
+(SA['red', 'green', 'blue'] ne Q['red'])
+(SA['red', 'green', 'blue'] ne NSW['blue'])
+(SA['red', 'green', 'blue'] ne V['red'])
+True
