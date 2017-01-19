@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-Implement solutions for any X-sudoku
+Implement solutions for any X-sudoku using machine learning technique to reduce the complexity of the runtime
 
 Directories: 
 
